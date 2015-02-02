@@ -1,1 +1,1 @@
-This is a sample project used to learn git.
+This is a sample web project used to learn git.
